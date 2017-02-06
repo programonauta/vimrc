@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/rbrandao/cppexamples/point'
+let g:netrw_dirhist_2='/Users/rbrandao/cppexamples'
+let g:netrw_dirhist_3='/Users/rbrandao/cppexamples/inheritance'
+let g:netrw_dirhist_4='/Users/rbrandao/fuzzy-k-means'
+let g:netrw_dirhist_5='/Users/rbrandao/fuzzy-k-means/src'
+let g:netrw_dirhist_6='/Users/rbrandao/cppexamples'
+let g:netrw_dirhist_7='/Users/rbrandao/cppexamples/assign'
+let g:netrw_dirhist_8='/Applications/Dia.app'
+let g:netrw_dirhist_9='/Applications/Dia.app/Contents'
