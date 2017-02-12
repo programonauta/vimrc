@@ -6,8 +6,8 @@ if filereadable("/etc/vim/vimrc.local")
   source /etc/vim/vimrc.local
 endif
 
-" call pathogen#runtime_append_all_bundles()
-" call pathogen#helptags()
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
 
 " enable backup file
 set backup
